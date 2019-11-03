@@ -48,14 +48,14 @@
     width: 100%;
     background: yellow;
 }
-.btn{
+.butn{
     padding: 10px 20px;
     border: 0;
     background: yellow;
     font-weight: bold;
     cursor: pointer;
 }
-.nav-links .btn{
+.nav-links .butn{
     float: right;
 }
 .banner-title{
@@ -193,9 +193,10 @@
     .nav-links ul a{
         display: block;
     }
-    .nav-links .btn{
+    .nav-links .butn{
         float: none;
         margin-left: 25px;
         margin-top: 10px;
     }
 }
+/* signup */
