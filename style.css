@@ -96,6 +96,10 @@
     bottom: 0;
     position: absolute;
 }
+.social-icons a{
+    text-decoration: none;
+    color: #000;
+}
 .social-icons .fa{
     margin: 15px 23px;
     display: block;
